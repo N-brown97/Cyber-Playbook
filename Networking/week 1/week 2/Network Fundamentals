@@ -1,0 +1,19 @@
+You would use star topolgies when-
+You need simple and cost-effective network setups (e.g., small offices, classrooms).
+Easy troubleshooting and maintenance is a priority.
+Centralized control is preferred (everything connects through a central switch/hub).
+You're okay with central point of failure (if the hub/switch goes down, all connections fail).
+
+VS 
+
+Using Mesh Topolgies-
+High reliability and redundancy are critical (no single point of failure).
+The network must stay up even if one or more connections fail.
+You’re connecting many devices in a large, distributed system.
+Bandwidth usage and cost is less of a concern (because it’s expensive and complex to set up).
+
+A few key differences between a swtich and router:
+A switch connects devices within a network where a router connects to different networks.
+A switch is a network bridge where a router is a network gateway.
+A switch forwards data within the same network where a router routes data between networks.
+A switch has basic security features as to where a router has more advanced features.
