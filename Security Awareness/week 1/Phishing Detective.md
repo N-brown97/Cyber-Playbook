@@ -1,10 +1,11 @@
 
 
 Hijack
-Urgent: Account Access Restricted
-Generic greeting: “Dear Customer” instead of your actual name. Urgency/threat: “Failure to act within 24 hours” — pressure tactic. Suspicious link: “Verify My Account Now” (no real domain shown, likely spoofed). No company details: Just “Security Team,” no phone, no verifiable info.
+1) Urgent: Account Access Restricted
+  - Generic greeting: “Dear Customer” instead of your actual name. Urgency/threat: “Failure to act within 24 hours” — pressure tactic. Suspicious link: “Verify My Account Now” (no real domain shown, likely spoofed). No company details: Just “Security Team,” no phone, no verifiable info.
+
 Congratulations! You are the Winner
-Unexpected prize: You didn’t enter a contest. Suspicious attachment: Asking you to download and fill out a file — classic malware/data theft trick. Urgency: “Offer expires today!” Impersonation: “Amazon Rewards Department” — Amazon doesn’t send rewards this way.
+Unexpected prize: You didn’t enter a contest. Suspicious attachment: Asking you to download and fill out a file — classic malware/data theft trick.   - Urgency: “Offer expires today!” Impersonation: “Amazon Rewards Department” — Amazon doesn’t send rewards this way.
 Payroll Correction Needed
 Scare tactic: “Incorrect paycheck” creates panic. Data theft: Requesting bank details directly. Suspicious link: URL is http://hr-update-payroll.example/ — not a legitimate company HR portal. Unusual instructions: “Do not reply” — prevents questions and scrutiny.
 Immediate Assistance Required
