@@ -53,3 +53,5 @@
 -   Suspicious links or attachments.\
 -   Requests for sensitive info or money.\
 -   Impersonation of authority or companies.
+
+-   We used chatGPT (openAI, 2025)  to generate sample interview question.
