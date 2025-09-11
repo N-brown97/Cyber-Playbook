@@ -54,4 +54,7 @@
 -   Requests for sensitive info or money.\
 -   Impersonation of authority or companies.
 
--   We used chatGPT (openAI, 2025)  to generate sample interview question.
+
+  We used ChatGPT ( OpenAI, 2025) to generate sample interview questions 
+
+
