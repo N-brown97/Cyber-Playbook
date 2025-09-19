@@ -1,0 +1,12 @@
+TCP VS. UDP
+TCP (Transmission Control Protocol)
+Connection-oriented → requires a handshake.
+Reliable → guarantees delivery, order, and error correction.
+Slower → more overhead due to tracking and acknowledgments.
+Used for: web browsing, email, file transfers.
+
+UDP (User Datagram Protocol)
+Connectionless → no handshake, just sends data.
+Unreliable → no delivery guarantee, may lose or reorder packets.
+Faster → minimal overhead, lightweight.
+Used for: streaming, online gaming, voice/video calls.
