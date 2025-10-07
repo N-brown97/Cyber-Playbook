@@ -26,18 +26,4 @@
 | 514 | Syslog | UDP | Sends event messages to log servers |
 | 389 | LDAP (Lightweight Directory Access Protocol) | TCP / UDP | Accesses directory services (e.g., Active Directory) |
 
----
 
-### 💡 Study Tips
-- **Group by function:**  
-  - 🌐 Web → 80, 443  
-  - ✉️ Email → 25, 110, 143  
-  - 🧭 Services → 53, 67/68  
-  - 🖥️ Remote → 22, 23, 3389  
-  - 📂 File → 20/21, 69, 445  
-- **Memorization trick:**  
-  > “**FTP 21, Web 443, DNS 53, DHCP 67/68**”  
-
----
-
-© 2025 Hocking College | NET-1111: Introduction t
