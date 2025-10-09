@@ -40,4 +40,7 @@
 
 ---
 
+**TCP**:Transmission Control Protocol- A reliable connection oriented protocol that ensurse all data packets are recieved in the correct order.
+**UDP**:User Datagram Protocol- A faster connectionless protocol that priorities speed over gauranteed delivery.
+
 
